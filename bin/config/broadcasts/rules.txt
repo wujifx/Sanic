@@ -1,0 +1,18 @@
+:red_circle: - 3 warns (3rd warn = ban)
+:red_circle: - Proof you are an SJW
+:red_circle: - Continued breaking of rules
+:red_circle: - Ban Evading
+:red_circle: - Continued Complaining
+#
+:exclamation: - Intentionally attempting or successfully starting drama that isn't needed, we aim to make the server as non-toxic as possible.
+:exclamation: - Spamming (This includes to grind tokens or spamming @'s to talk get someone's attention)
+:exclamation: - Continued Role Begging
+:exclamation: - Continued inability to keep content to respective channels (pictures/links/videos in media, nsfw in nsfw)
+:exclamation: - ^Self Promotion
+:exclamation: - ^^Annoying Voice Call Activity
+#
+:question: - If you need something clarified we can add an explanation to a rule here
+:question: ^ = Sharing your own, friends, or someones content to get views and expand your viewerbase. Sharing this is fine, just not in the server. Sharing of random videos is allowed but if possible keep this to DM's
+:question: ^^ = This includes spamming in and out of channels, hogging the bot in a private server, joining vc and not joining in with the conversation, Being overly loud or neglecting a bad mic quality.
+#
+If you think someone is breaking the rules you can PM an admin or babe and we will try to assist you ASAP, try to get screenshots or proof as things can be deleted despite us having logs of deleted messages.

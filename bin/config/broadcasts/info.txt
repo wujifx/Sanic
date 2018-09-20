@@ -1,0 +1,7 @@
+Sanic has been custom written by @wujifx#4957 purely for helping manage the server and adding a currency system for various uses that are in development
+//
+The bot is constantly being updated, I tend to have a week long streak of hefty development with lots of fixes, additions and upgrades and a then some time away from it
+//
+I'm always open to suggestions but larger projects that require a constantly online Bot like Dyno i will use 3rd party services as i have to host the bot on my own server which isn't active 24/7
+//
+I am aware the bot is far from perfect and may run into issues especially when discord itself runs into issues, just message me or any @admin or @babe and i will try to resolve the issue if i can ASAP

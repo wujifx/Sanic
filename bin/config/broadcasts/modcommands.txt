@@ -1,0 +1,12 @@
+>say -channel -message (given a channel and a message, the bot will relay this message in the specified channel, needs channel ID)
+
+>changelog -update (this will post a message in the changelog channel about the update)
+
+>modcommands (shows this prompt)
+
+>close (will close the bot)
+#
+!purge amount (Will remove x amount of messages)
+
+!warn user reason
+

@@ -1,0 +1,17 @@
+0 : Daddy
+1 : Babe
+2 : Legends
+3 : Head Admin
+4 : Admin
+5 : iknowall
+6 : Bots
+7 : Community Developers
+8 : Patreon
+9 : SJW
+10 : Toon Secret Service
+11 : Toon Spec Ops
+12 : Toon Army
+13 : Anti-SJW
+14 : Dyno
+15 : KinkBot
+16 : @everyone

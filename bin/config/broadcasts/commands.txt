@@ -1,0 +1,25 @@
+>help      **(Will show the help prompt)**
+
+>commands  **(Will list the bot commands)**
+
+>usage >command **(Will list the usage of the specified command)**
+
+>rules     **(Will list the server rules)**
+
+>info      **(Lists some information about the bot)**
+
+>toon	   **(Links to Toons Socials)**
+#
+>tokenhelp **(Provides information about tokens)**
+
+>tokens    **(Shows how many tokens a user has)**
+
+>rankup    **(Attempts to rankup the user if they have enough tokens)**
+
+>tokentop  **(Shows the top 10 Users with the Highest Balance)**
+
+>seetokens @user **(Shows the balance of the mentioned user)**
+
+>givetokens @user -tokens **(gives Mentioned user tokens and deucts them from your balance)**
+
+>givegoldentokens @user -tokens **(gives Mentioned user golden tokens and deucts them from your balance)**

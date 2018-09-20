@@ -1,0 +1,13 @@
+>say channel message (given a channel and a message, the bot will relay this message in the specified channel)
+
+>admincommands (shows this prompt)
+
+>close (will close the bot)
+
+>warn @user reason (3rd Warn Needs Banning permissions)
+
+>warns @user (will display a users warns)
+#
+!purge amount (Will remove x amount of messages)
+#
+*clearing warns, will need to be done manually by me as toon doesnt want a clearwarn command

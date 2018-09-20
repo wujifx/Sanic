@@ -1,0 +1,25 @@
+1. Personal drama from other servers, IRL or this server should not affect the punishment given to the offending user
+2. Personal drama between staff should be sorted to ensure the best cohesion between staff
+3. Breaking of role specific rules may result in deduction of respective role
+4. Changes to the server (channels, permissions, roles, etc...) are to be made by @babes only
+5. Collective Babe decision is final
+#
+1. A moderators role is to ensure users of the server are aware of the ~rules and are to keep the users in check in terms of warnable offences
+2. Unless the message is nsfw and not in the ~nsfw or the message breaches discord's Terms of Service, message deletions are to be checked with admin or babe
+3. If you think a user needs to be banned, then you come to an admin or babe before trying to intervene in the situation
+4. If you think a user needs to be warned, then you are to check with an admin or babe if you are unsure if the offence is warnable
+5. In cases of a 3rd warn, you are to ask an admin or babe to do the 3rd warn, in the case of an accidental 3rd warn have an admin or babe sort it
+6. You are to be active as possible within reason to ensure the enforcement of rules, long periods of inactivity without a valid reason may result in deduction of moderator role
+#
+1. An Admins role is to ensure the users of the server are aware of the ~rules and are to provide the relevant disiplinary actions to the offending user
+2. Unless the message is nsfw and not in the ~nsfw or the message breaches discord's Terms of Service or violates the server rules, message deletions are to be checked with a babe
+3. If you think a user needs to be banned, you are to notify all babes and admins of said ban, you are to check with all babes if you are unsure if the offence is bannable
+4. If you think a user needs to be warned, then you are able, but incorrect warns or intentionally incorrect warns may result in deduction of admin role
+5. In cases of a 3rd warn, you are to notify all babes of said subsequent ban, in the case of an accidental 3rd warn notify an admin or babe and sort it
+6. You are to be active as possible within reason to ensure the enforcement of rules, long periods of inactivity without a valid reason may result in deduction of admin role
+#
+1. If you think a user needs to be banned, then you are able in emergencies but you are to check / notify all babes of said ban
+2. If you think a user needs to be warned, then you are able, in cases of a 3rd warn, you are to notify all babes of said subsequent ban
+3. Large server changes are to be checked with before hand
+4. Bans are to be collectivelly decided if it is not a 3rd warn / continued breach of rules
+5. Demote and Promotes are to be decided collectively unless it is a breach of the listed staff rules

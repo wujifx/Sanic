@@ -1,0 +1,9 @@
+Have you checked the bot is online? look Users Tab on the side to see if Sanic is online, if so, if you are attempting to look at tokens or give some this may be because there is an issue with your name containing strange characters which throws an exception with the discord.py API, hopefully an update will be released soon to fix this
+#
+There is a small chance the bot just had a hiccup, but the most common reason is because your discord name includes unconventional characters which are incompatible with the NTFS File Name Encoding system and throws an Exception with a Unicode Error, You can change your discord name to contain only conventionall characters and then change your nickname to your prior name
+#
+Yes, as of right now your Sanic Balance is tied to your discord name, but i am hoping to change this upon an update to discord.py API which will solve this problem, if you need your tokens migrated to a new name, ping @wujifx and he will try to fix this ASAP
+#
+@wujifx is the Author of the bot however the other babes might be able to help with your problem as it may be a command usage problem, if not wuji will have to assist with your problem if he is online
+#
+If you have any questions you think should be placed in this section just ping @wujifx and he will add it

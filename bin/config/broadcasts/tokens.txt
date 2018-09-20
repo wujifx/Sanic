@@ -1,0 +1,27 @@
+1 Token = 1 Message
+1 Golden Token = 0.01% chance per messsage
+#
+Normie:
+**- Gained upon Accepting Rules**
+
+Toon Army:
+**- 500 Tokens**
+**- 10 Golden Tokens**
+
+Toon Secret Service
+**- 2500 Tokens**
+**- 25 Golden Tokens**
+#
+>tokenhelp **(Provides information about tokens)**
+
+>tokens    **(Shows how many tokens a user has)**
+
+>rankup    **(Attempts to rankup the user if they have enough tokens)**
+
+>tokentop  **(Shows the top 10 Users with the Highest Balance)**
+
+>seetokens @user **(Shows the balance of the mentioned user)**
+
+>givetokens @user -tokens **(gives Mentioned user tokens and deucts them from your balance)**
+
+>givegoldentokens @user -tokens **(gives Mentioned user golden tokens and deucts them from your balance)**
